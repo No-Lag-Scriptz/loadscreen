@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/No-Lag-Scriptz/No-Lag-PetSpawner/refs/heads/main/GrowAGardenScript"))()
